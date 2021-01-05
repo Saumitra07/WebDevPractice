@@ -1,0 +1,37 @@
+.navbar-brand h1{
+  padding-left: 40px;
+}
+
+#header-nav{
+  background-color: blueviolet;
+  padding: 0;
+}
+@media (min-width:768px)
+{
+#list
+{
+  display: none;
+ 
+}
+}
+
+#list a{
+  text-align: center;
+  border:1px solid brown;
+}
+
+#list a:hover{
+  background-color: aquamarine;
+}
+
+.container .row{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: darkolivegreen;
+
+
+}
+p{
+  padding: 20px 20px 20px 20px;
+}
+
